@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84f57e0-78b5-42fd-9d4b-f0635fbe51eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/config/empty.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/config/view_bot.rviz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/description/robot.urdf.xacro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/launch/rsp.launch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/src/car_trailer_kinematics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articubot_one/worlds/empty.world" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2hnbcolCuqOHNHpnSVu5xDiFaoM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/artemtymoshchuk/Documents/Virtual Machines/Folder for ubuntu/ROS2-A-car-with-trailer-",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.200" />
+        <option value="bundled-python-sdk-86178adc3299-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84f57e0-78b5-42fd-9d4b-f0635fbe51eb" name="Changes" comment="" />
+      <created>1718232871505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718232871505</updated>
+      <workItem from="1718232873920" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
